@@ -26,6 +26,22 @@
       "audioUrl": "https://holinessfoundation.org/sermons/stream/15"
     },
     {
+      "id": "archive-24",
+      "title": "Your testimony is to remain Holy",
+      "preacher": "Doug Allen",
+      "date": "Aug 6, 1992",
+      "category": "Richlands",
+      "audioUrl": "https://holinessfoundation.org/sermons/stream/24"
+    },
+    {
+      "id": "archive-25",
+      "title": "I Will And I Am",
+      "preacher": "Kevin Allen",
+      "date": "Aug 21, 2026",
+      "category": "Sermon",
+      "audioUrl": "https://holinessfoundation.org/sermons/stream/25"
+    },
+    {
       "id": "archive-21",
       "title": "Don't Get Hung Up",
       "preacher": "Mike Allen",
@@ -38,8 +54,16 @@
       "title": "The Importance Of Preaching The Gospel - Richlands CM",
       "preacher": "Charles Barnett",
       "date": "Aug 5, 1992",
-      "category": "Sermon",
+      "category": "Richlands",
       "audioUrl": "https://holinessfoundation.org/sermons/stream/17"
+    },
+    {
+      "id": "archive-26",
+      "title": "Don’t Miss The Emotion",
+      "preacher": "Devin Birdsong",
+      "date": "Aug 21, 2026",
+      "category": "Sermon",
+      "audioUrl": "https://holinessfoundation.org/sermons/stream/26"
     },
     {
       "id": "archive-18",
