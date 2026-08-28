@@ -202,6 +202,14 @@
       "audioUrl": "https://holinessfoundation.org/sermons/stream/99"
     },
     {
+      "id": "archive-101",
+      "title": "2012-06-24 The Wild Child-",
+      "preacher": "J.R Alexander",
+      "date": "Jul 21, 2026",
+      "category": "Sermon",
+      "audioUrl": "https://holinessfoundation.org/sermons/stream/101"
+    },
+    {
       "id": "archive-112",
       "title": "2016-01-22 Man's Desire For Holy Ghost Fire",
       "preacher": "J.R Alexander",
@@ -258,12 +266,28 @@
       "audioUrl": "https://holinessfoundation.org/sermons/stream/152"
     },
     {
+      "id": "archive-242",
+      "title": "If We Want It - We Can Have It - If We Ask For It",
+      "preacher": "Charles Barnett",
+      "date": "Jul 21, 2026",
+      "category": "Sermon",
+      "audioUrl": "https://holinessfoundation.org/sermons/stream/242"
+    },
+    {
       "id": "archive-17",
       "title": "The Importance Of Preaching The Gospel - Richlands CM",
       "preacher": "Charles Barnett",
       "date": "Aug 5, 1992",
       "category": "Richlands",
       "audioUrl": "https://holinessfoundation.org/sermons/stream/17"
+    },
+    {
+      "id": "archive-501",
+      "title": "“ He is Precious “",
+      "preacher": "Steve Barrett",
+      "date": "Aug 26, 2026",
+      "category": "Service",
+      "audioUrl": "https://holinessfoundation.org/sermons/stream/501"
     },
     {
       "id": "archive-306",
@@ -280,6 +304,14 @@
       "date": "Aug 21, 2026",
       "category": "Sermon",
       "audioUrl": "https://holinessfoundation.org/sermons/stream/26"
+    },
+    {
+      "id": "archive-504",
+      "title": "“ Praying Like a Prophet “",
+      "preacher": "Andrew Blevins",
+      "date": "Aug 27, 2026",
+      "category": "Sermon",
+      "audioUrl": "https://holinessfoundation.org/sermons/stream/504"
     },
     {
       "id": "archive-18",
@@ -304,6 +336,14 @@
       "date": "Oct 18, 2021",
       "category": "Sermon",
       "audioUrl": "https://holinessfoundation.org/sermons/stream/41"
+    },
+    {
+      "id": "archive-506",
+      "title": "“ Thirsty In the Presence Of a Well “",
+      "preacher": "CJ Carter",
+      "date": "Aug 27, 2026",
+      "category": "Service",
+      "audioUrl": "https://holinessfoundation.org/sermons/stream/506"
     },
     {
       "id": "archive-40",
@@ -386,12 +426,28 @@
       "audioUrl": "https://holinessfoundation.org/sermons/stream/16"
     },
     {
+      "id": "archive-502",
+      "title": "“ Hold On to Your Praise “",
+      "preacher": "Ben Morris",
+      "date": "Aug 26, 2026",
+      "category": "Service",
+      "audioUrl": "https://holinessfoundation.org/sermons/stream/502"
+    },
+    {
       "id": "archive-499",
       "title": "Beyond the Gate and Into the Glory",
       "preacher": "Timothy Neil",
       "date": "Aug 26, 2026",
       "category": "Service",
       "audioUrl": "https://holinessfoundation.org/sermons/stream/499"
+    },
+    {
+      "id": "archive-505",
+      "title": "“ Overtaken By Hell “",
+      "preacher": "Noah Phillips",
+      "date": "Aug 27, 2026",
+      "category": "Sermon",
+      "audioUrl": "https://holinessfoundation.org/sermons/stream/505"
     },
     {
       "id": "archive-20",
@@ -456,6 +512,14 @@
       "date": "Oct 20, 1991",
       "category": "Service",
       "audioUrl": "https://holinessfoundation.org/sermons/stream/11"
+    },
+    {
+      "id": "archive-503",
+      "title": "FAMILIES WILL BE SEPARATED AT THE GREAT WHITE THRONE JUDGMENT.",
+      "preacher": "Michael Wilson",
+      "date": "Aug 23, 2026",
+      "category": "Sermon",
+      "audioUrl": "https://holinessfoundation.org/sermons/stream/503"
     }
   ]
 }
