@@ -10,9 +10,17 @@
       "audioUrl": "https://holinessfoundation.org/sermons/stream/639"
     },
     {
+      "id": "archive-640",
+      "title": "Dealing With Divine Trust - Bill Preskitt",
+      "preacher": "Smoky Mountain Minister's Conference 2017",
+      "date": "Jan 1, 2017",
+      "category": "Ministers Conference",
+      "audioUrl": "https://holinessfoundation.org/sermons/stream/640"
+    },
+    {
       "id": "archive-34",
       "title": "2011-02-27 The Cry Of The Lord",
-      "preacher": "Lonnie Adams",
+      "preacher": "Lonny Adams",
       "date": "Jul 21, 2026",
       "category": "Sermon",
       "audioUrl": "https://holinessfoundation.org/sermons/stream/34"
@@ -20,7 +28,7 @@
     {
       "id": "archive-13",
       "title": "Repairing The Altar",
-      "preacher": "Lonnie Adams",
+      "preacher": "Lonny Adams",
       "date": "Aug 26, 2012",
       "category": "Service",
       "audioUrl": "https://holinessfoundation.org/sermons/stream/13"
@@ -192,14 +200,6 @@
       "date": "Oct 7, 1990",
       "category": "Sermon",
       "audioUrl": "https://holinessfoundation.org/sermons/stream/705"
-    },
-    {
-      "id": "archive-97",
-      "title": "1992-08-06 There is a place By Me - at Richlands CM",
-      "preacher": "J.R Alexander",
-      "date": "Jul 21, 2026",
-      "category": "Sermon",
-      "audioUrl": "https://holinessfoundation.org/sermons/stream/97"
     }
   ]
 }
