@@ -146,14 +146,6 @@
       "audioUrl": "https://holinessfoundation.org/sermons/stream/68"
     },
     {
-      "id": "archive-91",
-      "title": "1990-10-07 Weve Got a Long Way to Go",
-      "preacher": "Charles Akers",
-      "date": "Jul 21, 2026",
-      "category": "Sermon",
-      "audioUrl": "https://holinessfoundation.org/sermons/stream/91"
-    },
-    {
       "id": "archive-92",
       "title": "2000-12-31 Not Seeing But Still Believing",
       "preacher": "Charles Akers",
@@ -192,6 +184,14 @@
       "date": "Jul 21, 2026",
       "category": "Sermon",
       "audioUrl": "https://holinessfoundation.org/sermons/stream/96"
+    },
+    {
+      "id": "archive-705",
+      "title": "Weve Got a Long Way to Go",
+      "preacher": "Charles Akers",
+      "date": "Oct 7, 1990",
+      "category": "Sermon",
+      "audioUrl": "https://holinessfoundation.org/sermons/stream/705"
     },
     {
       "id": "archive-97",
